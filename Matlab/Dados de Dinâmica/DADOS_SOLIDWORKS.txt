@@ -1,0 +1,324 @@
+---------------------L1-----------------------
+Propriedades de massa de KR_6_R900-2_V01.sldasm-Part-6
+     Configuração: Valor predeterminado
+     Sistema de coordenadas: Sistema de coordenadas1
+
+Densidade = 7200.00000 quilogramas por metro cúbico
+
+Massa = 43.04158 quilogramas
+
+Volume = 0.00598 metros cúbicos
+
+Área de superfície = 0.28677 metros quadrados
+
+Centro de massa: ( metros )
+	X = 0.00051
+	Y = 0.00790
+	Z = 0.10391
+
+Eixos principais de inércia e momentos de inércia principais: ( quilogramas * metros quadrados )
+Tomado no centro da massa.
+	 Ix = (-0.99698, -0.02381, -0.07386)   	Px = 0.32868
+	 Iy = (-0.07748,  0.25228,  0.96455)   	Py = 0.37897
+	 Iz = (-0.00433,  0.96736, -0.25336)   	Pz = 0.52431
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Obtido no centro de massa e alinhado com o sistema de coordenadas de saída.
+	Lxx = 0.32898	Lxy = 0.00180	Lxz = 0.00354
+	Lyx = 0.00180	Lyy = 0.51495	Lyz = 0.03571
+	Lzx = 0.00354	Lzy = 0.03571	Lzz = 0.38803
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Tomados no sistema de coordenadas de saída.
+	Ixx = 0.79642	Ixy = 0.00198	Ixz = 0.00583
+	Iyx = 0.00198	Iyy = 0.97971	Iyz = 0.07104
+	Izx = 0.00583	Izy = 0.07104	Izz = 0.39072
+
+---------------------L2-----------------------
+
+Propriedades de massa de KR_6_R900-2_V01.sldasm-Part-5
+     Configuração: Valor predeterminado
+     Sistema de coordenadas: Sistema de coordenadas1
+
+Densidade = 7200.00000 quilogramas por metro cúbico
+
+Massa = 69.62141 quilogramas
+
+Volume = 0.00967 metros cúbicos
+
+Área de superfície = 0.39165 metros quadrados
+
+Centro de massa: ( metros )
+	X = 0.21034
+	Y = 0.00132
+	Z = 0.00776
+
+Eixos principais de inércia e momentos de inércia principais: ( quilogramas * metros quadrados )
+Tomado no centro da massa.
+	 Ix = ( 0.99992,  0.01159,  0.00425)   	Px = 0.37946
+	 Iy = ( 0.01157, -0.99992,  0.00417)   	Py = 2.09296
+	 Iz = ( 0.00430, -0.00412, -0.99998)   	Pz = 2.28980
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Obtido no centro de massa e alinhado com o sistema de coordenadas de saída.
+	Lxx = 0.37973	Lxy = 0.01986	Lxz = 0.00813
+	Lyx = 0.01986	Lyy = 2.09273	Lyz = -0.00073
+	Lzx = 0.00813	Lzy = -0.00073	Lzz = 2.28976
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Tomados no sistema de coordenadas de saída.
+	Ixx = 0.38404	Ixy = 0.03919	Ixz = 0.12174
+	Iyx = 0.03919	Iyy = 5.17715	Iyz = -0.00001
+	Izx = 0.12174	Izy = -0.00001	Izz = 5.37011
+---------------------L3-----------------------
+Propriedades de massa de KR_6_R900-2_V01.sldasm-Part-4
+     Configuração: Valor predeterminado
+     Sistema de coordenadas: Sistema de coordenadas1
+
+Densidade = 7200.00000 quilogramas por metro cúbico
+
+Massa = 28.62832 quilogramas
+
+Volume = 0.00398 metros cúbicos
+
+Área de superfície = 0.15809 metros quadrados
+
+Centro de massa: ( metros )
+	X = 0.00274
+	Y = 0.05248
+	Z = 0.01113
+
+Eixos principais de inércia e momentos de inércia principais: ( quilogramas * metros quadrados )
+Tomado no centro da massa.
+	 Ix = (-0.02281,  0.98481,  0.17213)   	Px = 0.07049
+	 Iy = (-0.03392,  0.17131, -0.98463)   	Py = 0.20302
+	 Iz = (-0.99916, -0.02830,  0.02950)   	Pz = 0.20645
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Obtido no centro de massa e alinhado com o sistema de coordenadas de saída.
+	Lxx = 0.20638	Lxy = -0.00307	Lxz = -0.00042
+	Lyx = -0.00307	Lyy = 0.07449	Lyz = 0.02247
+	Lzx = -0.00042	Lzy = 0.02247	Lzz = 0.19909
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Tomados no sistema de coordenadas de saída.
+	Ixx = 0.28877	Ixy = 0.00105	Ixz = 0.00046
+	Iyx = 0.00105	Iyy = 0.07825	Iyz = 0.03919
+	Izx = 0.00046	Izy = 0.03919	Izz = 0.27815
+---------------------L4-----------------------
+Propriedades de massa de KR_6_R900-2_V01.sldasm-Part-3
+     Configuração: Valor predeterminado
+     Sistema de coordenadas: Sistema de coordenadas2
+
+Densidade = 7200.00000 quilogramas por metro cúbico
+
+Massa = 17.66044 quilogramas
+
+Volume = 0.00245 metros cúbicos
+
+Área de superfície = 0.13440 metros quadrados
+
+Centro de massa: ( metros )
+	X = 0.09364
+	Y = 0.00237
+	Z = -0.00007
+
+Eixos principais de inércia e momentos de inércia principais: ( quilogramas * metros quadrados )
+Tomado no centro da massa.
+	 Ix = ( 0.98568,  0.16858, -0.00325)   	Px = 0.04689
+	 Iy = (-0.16858,  0.98569,  0.00026)   	Py = 0.07901
+	 Iz = ( 0.00325,  0.00029,  0.99999)   	Pz = 0.09877
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Obtido no centro de massa e alinhado com o sistema de coordenadas de saída.
+	Lxx = 0.04780	Lxy = 0.00534	Lxz = -0.00017
+	Lyx = 0.00534	Lyy = 0.07809	Lyz = -0.00002
+	Lzx = -0.00017	Lzy = -0.00002	Lzz = 0.09877
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Tomados no sistema de coordenadas de saída.
+	Ixx = 0.04790	Ixy = 0.00926	Ixz = -0.00029
+	Iyx = 0.00926	Iyy = 0.23295	Iyz = -0.00003
+	Izx = -0.00029	Izy = -0.00003	Izz = 0.25373
+
+---------------------L5-----------------------
+
+Propriedades de massa de KR_6_R900-2_V01.sldasm-Part-2
+     Configuração: Valor predeterminado
+     Sistema de coordenadas: Sistema de coordenadas1
+
+Densidade = 7200.00000 quilogramas por metro cúbico
+
+Massa = 5.49770 quilogramas
+
+Volume = 0.00076 metros cúbicos
+
+Área de superfície = 0.05155 metros quadrados
+
+Centro de massa: ( metros )
+	X = 0.01145
+	Y = 0.00142
+	Z = 0.00000
+
+Eixos principais de inércia e momentos de inércia principais: ( quilogramas * metros quadrados )
+Tomado no centro da massa.
+	 Ix = ( 0.99916, -0.04093,  0.00025)   	Px = 0.00616
+	 Iy = (-0.04093, -0.99916,  0.00068)   	Py = 0.00790
+	 Iz = ( 0.00022, -0.00069, -1.00000)   	Pz = 0.00901
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Obtido no centro de massa e alinhado com o sistema de coordenadas de saída.
+	Lxx = 0.00616	Lxy = -0.00007	Lxz = 0.00000
+	Lyx = -0.00007	Lyy = 0.00790	Lyz = 0.00000
+	Lzx = 0.00000	Lzy = 0.00000	Lzz = 0.00901
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Tomados no sistema de coordenadas de saída.
+	Ixx = 0.00617	Ixy = 0.00002	Ixz = 0.00000
+	Iyx = 0.00002	Iyy = 0.00862	Iyz = 0.00000
+	Izx = 0.00000	Izy = 0.00000	Izz = 0.00974
+
+---------------------L6-----------------------
+
+Propriedades de massa de KR_6_R900-2_V01.sldasm-Part-1
+     Configuração: Valor predeterminado
+     Sistema de coordenadas: Sistema de coordenadas1
+
+Densidade = 7200.00000 quilogramas por metro cúbico
+
+Massa = 0.54737 quilogramas
+
+Volume = 0.00008 metros cúbicos
+
+Área de superfície = 0.01565 metros quadrados
+
+Centro de massa: ( metros )
+	X = 0.00527
+	Y = 0.00000
+	Z = -0.00001
+
+Eixos principais de inércia e momentos de inércia principais: ( quilogramas * metros quadrados )
+Tomado no centro da massa.
+	 Ix = ( 0.00016,  0.00000, -1.00000)   	Px = 0.00021
+	 Iy = ( 0.00000,  1.00000,  0.00000)   	Py = 0.00021
+	 Iz = ( 1.00000,  0.00000,  0.00016)   	Pz = 0.00039
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Obtido no centro de massa e alinhado com o sistema de coordenadas de saída.
+	Lxx = 0.00039	Lxy = 0.00000	Lxz = 0.00000
+	Lyx = 0.00000	Lyy = 0.00021	Lyz = 0.00000
+	Lzx = 0.00000	Lzy = 0.00000	Lzz = 0.00021
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Tomados no sistema de coordenadas de saída.
+	Ixx = 0.00039	Ixy = 0.00000	Ixz = 0.00000
+	Iyx = 0.00000	Iyy = 0.00022	Iyz = 0.00000
+	Izx = 0.00000	Izy = 0.00000	Izz = 0.00022
+
+---------------------RAQUETE-----------------------
+
+Propriedades de massa de racquet
+     Configuração: Default
+     Sistema de coordenadas: Sistema de coordenadas1
+
+Densidade = 1780.00000 quilogramas por metro cúbico
+
+Massa = 0.78919 quilogramas
+
+Volume = 0.00044 metros cúbicos
+
+Área de superfície = 0.15977 metros quadrados
+
+Centro de massa: ( metros )
+	X = 0.34284
+	Y = 0.00000
+	Z = 0.00000
+
+Eixos principais de inércia e momentos de inércia principais: ( quilogramas * metros quadrados )
+Tomado no centro da massa.
+	 Ix = ( 1.00000,  0.00000,  0.00000)   	Px = 0.00525
+	 Iy = ( 0.00000, -1.00000,  0.00000)   	Py = 0.03629
+	 Iz = ( 0.00000,  0.00000, -1.00000)   	Pz = 0.04146
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Obtido no centro de massa e alinhado com o sistema de coordenadas de saída.
+	Lxx = 0.00525	Lxy = 0.00000	Lxz = 0.00000
+	Lyx = 0.00000	Lyy = 0.03629	Lyz = 0.00000
+	Lzx = 0.00000	Lzy = 0.00000	Lzz = 0.04146
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Tomados no sistema de coordenadas de saída.
+	Ixx = 0.00525	Ixy = 0.00000	Ixz = 0.00000
+	Iyx = 0.00000	Iyy = 0.12905	Iyz = 0.00000
+	Izx = 0.00000	Izy = 0.00000	Izz = 0.13422
+
+---------------------BOLA-----------------------
+Propriedades de massa de tenis
+     Configuração: Default
+     Sistema de coordenadas: Sistema de coordenadas1
+
+Densidade = 900.00000 quilogramas por metro cúbico
+
+Massa = 0.46640 quilogramas
+
+Volume = 0.00052 metros cúbicos
+
+Área de superfície = 0.03208 metros quadrados
+
+Centro de massa: ( metros )
+	X = -0.00006
+	Y = 0.00000
+	Z = 0.00000
+
+Eixos principais de inércia e momentos de inércia principais: ( quilogramas * metros quadrados )
+Tomado no centro da massa.
+	 Ix = (-0.00783,  0.00101,  0.99997)   	Px = 0.00046
+	 Iy = (-0.99997, -0.00177, -0.00783)   	Py = 0.00046
+	 Iz = ( 0.00176, -1.00000,  0.00102)   	Pz = 0.00046
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Obtido no centro de massa e alinhado com o sistema de coordenadas de saída.
+	Lxx = 0.00046	Lxy = 0.00000	Lxz = 0.00000
+	Lyx = 0.00000	Lyy = 0.00046	Lyz = 0.00000
+	Lzx = 0.00000	Lzy = 0.00000	Lzz = 0.00046
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Tomados no sistema de coordenadas de saída.
+	Ixx = 0.00046	Ixy = 0.00000	Ixz = 0.00000
+	Iyx = 0.00000	Iyy = 0.00046	Iyz = 0.00000
+	Izx = 0.00000	Izy = 0.00000	Izz = 0.00046
+---------------------MURO-----------------------
+Propriedades de massa de Wall
+     Configuração: Default
+     Sistema de coordenadas: -- valor predeterminado --
+
+Densidade = 2250.00000 quilogramas por metro cúbico
+
+Massa = 28615.04650 quilogramas
+
+Volume = 12.71780 metros cúbicos
+
+Área de superfície = 121.08128 metros quadrados
+
+Centro de massa: ( metros )
+	X = -0.14600
+	Y = 1.20409
+	Z = -0.54061
+
+Eixos principais de inércia e momentos de inércia principais: ( quilogramas * metros quadrados )
+Tomado no centro da massa.
+	 Ix = ( 0.00031,  0.01823,  0.99983)   	Px = 89616.33274
+	 Iy = (-0.00735, -0.99981,  0.01823)   	Py = 124110.12547
+	 Iz = ( 0.99997, -0.00736, -0.00017)   	Pz = 213302.31301
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Obtido no centro de massa e alinhado com o sistema de coordenadas de saída.
+	Lxx = 213297.47850	Lxy = 656.42688	Lxz = 26.22561
+	Lyx = 656.42688	Lyy = 124103.49044	Lyz = 628.60573
+	Lzx = 26.22561	Lzy = 628.60573	Lzz = 89627.80228
+
+Momentos de inércia: ( quilogramas * metros quadrados )
+Tomados no sistema de coordenadas de saída.
+	Ixx = 263147.37166	Ixy = -4373.88456	Ixz = 2284.72845
+	Iyx = -4373.88456	Iyy = 133076.42455	Iyz = -17998.12439
+	Izx = 2284.72845	Izy = -17998.12439	Izz = 131724.61824
