@@ -20,7 +20,7 @@ function [ position, speed, axis, t ] = run_until_colision( position, speed, g, 
 % Então somos obrigados a resolver de forma numérica usando a função solve
 
 syms t
-assume(t > 0)
+assume(t >= 0)
 
 if sign(speed(1)) == 1
     limit_x = limits(1,1);
@@ -62,8 +62,7 @@ axis_array = [
 
 [t, axis] = min(double([t_x; t_y; t_z]));
 
-axis = axis_array(axis);
-
+axis = a
 [position, speed] = run_until(position, speed, g, t, d, n, m);
 
 end
