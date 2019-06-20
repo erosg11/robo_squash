@@ -11,12 +11,7 @@ function [ ball_position, speed ] = run_until_t( ball_position, speed, g, limits
 %   mi: Viscosidade do ar
 %   m_ball: Massa da bola
 %   regeneration_parede: Fator de regeneração da bola com a parede
-%   t: Tempo que você deseja saber a posição da bola
-%
-% Retorna:
-%   ball_positions: Posição da bola
-%   speed: Velocidade da bola
-
+%   t: Tempo que você deseja saber 
     t0 = 0;
     ball_position_k = ball_position;
     speed_k = speed;
