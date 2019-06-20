@@ -34,16 +34,6 @@ x = (m*speed(1) + 3*pi*d*n*position(1))/(3*pi*d*n) - ...
 
 t_x = solve(x == limit_x, t);
 
-if sign(speed(2)) == 1
-    limit_y = limits(2,1);
-else
-    limit_y = limits(2,2);
-end
-
-y = (m*speed(2) + 3*pi*d*n*position(2))/(3*pi*d*n) - ...
-    (m*speed(2)*exp(-(3*pi*d*n*t)/m))/(3*pi*d*n);
-
-t_y = solve(y == limit_y, t);
 
 z =  (3*pi*d*n*(m*speed(3) + 3*pi*d*n*position(3)) - g*m^2 + ...
  3*pi*d*g*m*n*t)/(9*pi^2*d^2*n^2) + (exp(-(3*pi*d*n*t)/m)* ...
@@ -52,16 +42,14 @@ z =  (3*pi*d*n*(m*speed(3) + 3*pi*d*n*position(3)) - g*m^2 + ...
 t_z = solve(z == z0, t);
 
 size_x = length(t_x);
-size_y = length(t_y);
 size_z = length(t_z);
 
 axis_array = [
     ones(size_x, 1);
-    ones(size_y, 1) * 2;
     ones(size_z, 1) * 3;
     ];
 
-[t, axis] = min(double([t_x; t_y; t_z]));
+[t, axis] = min(double([t_x; t_z]));
 
 axis = axis_array(axis);
 

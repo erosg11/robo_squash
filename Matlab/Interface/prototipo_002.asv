@@ -217,36 +217,29 @@ function pushbutton1_Callback(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 x_raquete = str2double(get(handles.x_raquete_input, 'String'));
-disp('Eixo x na raquete');
 disp(x_raquete);
 
 y_raquete = str2double(get(handles.y_raquete_input, 'String'));
-disp('Eixo y na raquete');
 disp(y_raquete);
 
 velocidade_f = str2double(get(handles.velocidade_input, 'String'));
-disp('Velocidade na raquete');
 disp(velocidade_f);
 
 m_ball = str2double(get(handles.massa_ball_input, 'String'));
-disp('Massa da bola');
 disp(m_ball);
 
 D = str2double(get(handles.diametro_ball_input, 'String'));
-disp('Diâmetro da bola');
 disp(D);
 
 x0_ball = str2double(get(handles.x0_ball_input, 'String'));
-disp('Posição no eixo x inicial da bola');
 disp(x0_ball);
 
 y0_ball = str2double(get(handles.y0_ball_input, 'String'));
-disp('Posição no eixo y inicial da bola');
 disp(y0_ball);
 
 z0_ball = str2double(get(handles.z0_ball_input, 'String'));
-disp('Posição no eixo z inicial da bola');
 disp(z0_ball);
+
 
 
 function diametro_ball_input_Callback(hObject, eventdata, handles)
