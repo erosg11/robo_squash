@@ -248,6 +248,23 @@ z0_ball = str2double(get(handles.z0_ball_input, 'String'));
 disp('Posição no eixo z inicial da bola');
 disp(z0_ball);
 
+run parametros_iniciais.m
+
+[v, t] = get_v0(velocidade_f, [x0_ball; y0_ball; z0_ball], ...
+    ball_target, ar_mi, D, m_ball, g0(3));
+
+disp('Velocidade inicial da bola');
+
+disp(v);
+
+disp('Tempo até a raquete');
+
+disp(t);
+
+if isempty(v)
+    error('Velocidade muito baixa, imporssível parametrizar a bola');
+end
+
 
 function diametro_ball_input_Callback(hObject, eventdata, handles)
 % hObject    handle to diametro_ball_input (see GCBO)

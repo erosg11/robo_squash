@@ -3,6 +3,8 @@ function [ v0, t ] = get_v0( vf, s0, s, n, d, m, g )
 %   Detailed explanation goes here
     
     syms t
+
+    assume(t>0);
     v = sym('v', [3, 1]);
     [vx, vy, vz, t] = solve( ...
         (m*v(1) + 3*pi*d*n*s0(1))/(3*pi*d*n) - ...

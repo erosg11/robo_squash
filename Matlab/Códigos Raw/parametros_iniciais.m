@@ -56,4 +56,24 @@ II65 = [0.00039	0.00000	0.00000; 0.00000 0.00022 0.00000; 0.00000 0.00000 0.0002
 Pg76 = [0.34284 0.00000 0.00000 1.00000]';
 II76 = [0.00525	0.00000	0.00000; 0.00000 0.12905 0.00000; 0.00000 0.00000 0.13422];
 
-II = ["II10", "II20", "II30", "II40", "II50", "II60", "II70"];
+II = ['II10', 'II20', 'II30', 'II40', 'II50', 'II60', 'II70'];
+
+% Regeneração da bola quando bate na raquete
+regeneration_raquete = 0.8;
+
+% Regenaração da bola quando bate na parede
+regeneration_parede = 0.85;
+
+% Viscosidade do ar 
+ar_mi = 17.2 * 10 ^ -6;
+
+% Poison da bola
+poison = 0.47;
+
+% Young
+young = 6.5 * 10^6;
+
+k_ball = calc_k(poison, young);
+
+% Posição alvo da bola no primeiro lançamento
+ball_target = [0; 0; 0];
