@@ -218,6 +218,18 @@ function pushbutton1_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
 var0 = str2double(get(handles.edit1, 'String'));
 disp(var0 * 2);
+a = get(handles.uibuttongroup1,'SelectedObject');
+u = get(a, 'String');
+x = u(1);
+if x == 'T'
+    y = 1
+elseif x == 'Q'
+    y = 2
+elseif x == 'R'
+    y = 3
+end
+    
+
 
 
 
