@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="06/20/19||07:46:51" using="Simscape Multibody Link Version 6.0" from="SolidWorks 26.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="KR_6_R900-2" uid="KR_6_R900-2" version="908">
+<AssemblyFile name="KR_6_R900-2.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="KR_6_R900-2_V01.sldasm-Part-3-1" uid="KR_6_R900-2_V01.sldasm-Part-3-1" entityUid="KR_6_R900-2_V01.sldasm-Part-3*:*Valor predeterminado">
+<Transform>
+<Rotation>1 1.897340967063786e-16 1.9036885358437255e-16 -1.8067940782881958e-16 -3.5527136788005009e-15 1.0000000000000002 2.1155845235222516e-16 -1 -3.3861802251067274e-15</Rotation>
+<Translation>0.69003561137020497 -0.26001246099307929 0.31408025754921798</Translation>
+</Transform>
+</Instance>
+<Instance name="KR_6_R900-2_V01.sldasm-Part-1-1" uid="KR_6_R900-2_V01.sldasm-Part-1-1" entityUid="KR_6_R900-2_V01.sldasm-Part-1*:*Valor predeterminado">
+<Transform>
+<Rotation>1 -1.8297318918273777e-16 -1.6653345369377464e-16 -1.66533453693774e-16 3.5527136788005025e-15 -1 1.8297318918273836e-16 1 3.5527136788005025e-15</Rotation>
+<Translation>0.69003561137020553 1.2599875390069211 0.32058025754921282</Translation>
+</Transform>
+</Instance>
+<Instance name="KR_6_R900-2_V01.sldasm-Part-2-1" uid="KR_6_R900-2_V01.sldasm-Part-2-1" entityUid="KR_6_R900-2_V01.sldasm-Part-2*:*Valor predeterminado">
+<Transform>
+<Rotation>1.0000000000000002 0 0 -1.6653345369377432e-16 3.5754229033595151e-15 -1 0 1 3.5981321279185293e-15</Rotation>
+<Translation>0.69003561137020497 1.2599875390069211 0.32058025754921271</Translation>
+</Transform>
+</Instance>
+<Instance name="racquet-1" uid="racquet-1" entityUid="racquet*:*Default">
+<Transform>
+<Rotation>2.3936745050242378e-16 1 4.4408920985006321e-16 0 2.7755575615628849e-16 -0.99999999999999989 -0.99999999999999978 3.1265544729691769e-16 0</Rotation>
+<Translation>1.6675356113702047 0.49998753900692094 0.3205802575492161</Translation>
+</Transform>
+</Instance>
+<Instance name="KR_6_R900-2_V01.sldasm-Part-4-1" uid="KR_6_R900-2_V01.sldasm-Part-4-1" entityUid="KR_6_R900-2_V01.sldasm-Part-4*:*Valor predeterminado">
+<Transform>
+<Rotation>1.0000000000000002 1.9232099306012413e-16 0 0 -3.5484967904450964e-15 1.0000000000000002 1.9232099306012019e-16 -1 -3.5484967904450972e-15</Rotation>
+<Translation>0.62503561137020491 -0.38001246099307939 0.31408025754921848</Translation>
+</Transform>
+</Instance>
+<Instance name="KR_6_R900-2_V01.sldasm-Part-5-1" uid="KR_6_R900-2_V01.sldasm-Part-5-1" entityUid="KR_6_R900-2_V01.sldasm-Part-5*:*Valor predeterminado">
+<Transform>
+<Rotation>0 2.2204460492503131e-16 1.0000000000000002 -1 -3.5624391978288959e-15 0 3.539081800349463e-15 -1.0000000000000002 2.2204460492503131e-16</Rotation>
+<Translation>-0.20496438862979566 0.49998753900692083 0.31408025754921515</Translation>
+</Transform>
+</Instance>
+<Instance name="KR_6_R900-2_V01.sldasm-Part-6-1" uid="KR_6_R900-2_V01.sldasm-Part-6-1" entityUid="KR_6_R900-2_V01.sldasm-Part-6*:*Valor predeterminado">
+<Transform>
+<Rotation>1 0 0 0 -3.477849460392095e-15 1 0 -1 -3.477849460392095e-15</Rotation>
+<Translation>0.17003561137020429 0.074987539006920761 0.31408025754921687</Translation>
+</Transform>
+</Instance>
+<Instance name="KR_6_R900-2_V01.sldasm-Part-13-1" uid="KR_6_R900-2_V01.sldasm-Part-13-1" grounded="true" entityUid="KR_6_R900-2_V01.sldasm-Part-13*:*Valor predeterminado">
+<Transform>
+<Rotation>1 0 0 0 -3.4914813388431334e-15 1 0 -1 -3.4914813388431334e-15</Rotation>
+<Translation>0.17003561137020284 0.0749875390069209 0.31408025754920693</Translation>
+</Transform>
+</Instance>
+<Instance name="tenis-1" uid="tenis-1" entityUid="tenis*:*Default">
+<Transform>
+<Rotation>0.027813344072334049 -0.9770875524343402 -0.21101263651588342 -0.25713760680830178 -0.21098402254251772 0.94306203051372894 -0.96597446604784187 0.028029575623772 -0.25711412608788747</Rotation>
+<Translation>2.1199838466466328 0.6875627474185968 0.31408025755081326</Translation>
+</Transform>
+</Instance>
+<Instance name="Wall-1" uid="Wall-1" entityUid="Wall*:*Default">
+<Transform>
+<Rotation>-0.99969541350954771 0.017449748351263998 -0.017452406437289934 0.017452406437297025 0.99984769515639094 0 0.017449748351256913 -0.00030458649045247673 -0.99984769515639105</Rotation>
+<Translation>3.483768566990086 1.8447542185830761 0.43697572887224001</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Concêntrico1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-6-1</Uid>
+</InstancePath>
+<Position>0 0 0.20150000000000001</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-13-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-6-1</Uid>
+</InstancePath>
+<Position>0 0 0.21970000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-13-1</Uid>
+</InstancePath>
+<Position>0.072000000000000008 0 0.21970000000000001</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-5-1</Uid>
+</InstancePath>
+<Position>0.025000000000000022 -0.06750000000000006 0.40000000000000024</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-6-1</Uid>
+</InstancePath>
+<Position>0.024999999999999994 -0.067500000000000004 0.40000000000000002</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concêntrico2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-5-1</Uid>
+</InstancePath>
+<Position>0.025000000000000022 0.057499999999999996 0.40000000000000024</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-6-1</Uid>
+</InstancePath>
+<Position>0.024999999999999994 0.14389622997146242 0.39999999999999997</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-4-1</Uid>
+</InstancePath>
+<Position>0.025000000000000022 -0.075499999999999956 0.85500000000000043</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-5-1</Uid>
+</InstancePath>
+<Position>0.025000000000000022 -0.075500000000000067 0.85500000000000043</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-4-1</Uid>
+</InstancePath>
+<Position>0.025000000000000022 -0.065499999999999947 0.85500000000000043</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-5-1</Uid>
+</InstancePath>
+<Position>0.025000000000000022 -0.075500000000000067 0.85500000000000043</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente12">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-3-1</Uid>
+</InstancePath>
+<Position>0.17500000000000004 -1.1102230246251565e-16 0.76000000000000045</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-4-1</Uid>
+</InstancePath>
+<Position>0.24000000000000021 0 0.88000000000000045</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente13">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-2-1</Uid>
+</InstancePath>
+<Position>0.39000000000000057 0.047999999999999932 0.76000000000000012</Position>
+<Axis>1.002019078177871e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-3-1</Uid>
+</InstancePath>
+<Position>0.39000000000000012 -0.047000000000000097 0.76000000000000045</Position>
+<Axis>0 -1 1.6653345369377427e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-2-1</Uid>
+</InstancePath>
+<Position>0.39000000000000057 -0.054500000000000048 0.76000000000000001</Position>
+<Axis>1.0020190781778699e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-3-1</Uid>
+</InstancePath>
+<Position>0.39000000000000012 0.047999999999999876 0.76000000000000045</Position>
+<Axis>0 -1 1.6653345369377427e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concêntrico3">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-1-1</Uid>
+</InstancePath>
+<Position>0.46200000000000008 0 0.76000000000000023</Position>
+<Axis>1 -1.2586361248018537e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-2-1</Uid>
+</InstancePath>
+<Position>0.45700000000000052 0 0.76000000000000023</Position>
+<Axis>-1.0000000000000002 1.2256411593665746e-16 -1.6653345369376885e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente15">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-1-1</Uid>
+</InstancePath>
+<Position>0.45699999999999996 0 0.76000000000000023</Position>
+<Axis>-1 1.2586361248018498e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-2-1</Uid>
+</InstancePath>
+<Position>0.45700000000000052 0 0.76000000000000023</Position>
+<Axis>1.0000000000000002 -1.2256411593665746e-16 1.6653345369376885e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Angle name="ÂnguloLimite2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-6-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-13-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Angle>
+<Angle name="ÂnguloLimite14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-5-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-6-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Angle>
+<Angle name="ÂnguloLimite5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-4-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-5-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Angle>
+<Angle name="ÂnguloLimite17">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-3-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 -1.6653345369377427e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-4-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Angle>
+<Coincident name="Coincidente18">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-1-1</Uid>
+</InstancePath>
+<Position>0.47949999999999993 0 0.76000000000000023</Position>
+<Axis>1 -1.2586361248018537e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>racquet-1</Uid>
+</InstancePath>
+<Position>0 -0.498 -1.1102230246251565e-16</Position>
+<Axis>0 -1 -1.6653345369377479e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Angle name="ÂnguloLimite23">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-3-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1.6653345369377427e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1.665334536937689e-16 0 1</Axis>
+</ConstraintGeometry>
+</Angle>
+<Angle name="ÂnguloLimite24">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1.002019078177871e-16 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-1-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Angle>
+<Angle name="ÂnguloLimite25">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>KR_6_R900-2_V01.sldasm-Part-1-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>racquet-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1.6653345369377484e-16 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Angle>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="KR_6_R900-2_V01.sldasm-Part-1" uid="KR_6_R900-2_V01.sldasm-Part-1*:*Valor predeterminado" version="113">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR_6_R900-2_V01.sldasm-Part-1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.54736903336672404</Mass>
+<CenterOfMass>0.46727359439369182 1.3247605122425641e-13 0.76000901351367467</CenterOfMass>
+<Inertia>0.00039109884240152038 0.00020855425975927565 0.00020852959891145607 2.3344241793399035e-15 -2.9739830279967142e-08 0</Inertia>
+</MassProperties>
+<GeometryFile name="KR_6_R900-2_V01.sldasm-Part-1_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR_6_R900-2_V01.sldasm-Part-13" uid="KR_6_R900-2_V01.sldasm-Part-13*:*Valor predeterminado" version="106">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR_6_R900-2_V01.sldasm-Part-13.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>70.063960487758436</Mass>
+<CenterOfMass>-0.018389842384840056 -3.5867256288919803e-07 0.11546186399120591</CenterOfMass>
+<Inertia>0.49219983909755277 0.59565671987126334 0.51149956280253639 2.0172524219524744e-06 -0.0028703484424621307 9.3459652263258e-05</Inertia>
+</MassProperties>
+<GeometryFile name="KR_6_R900-2_V01.sldasm-Part-13_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR_6_R900-2_V01.sldasm-Part-2" uid="KR_6_R900-2_V01.sldasm-Part-2*:*Valor predeterminado" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR_6_R900-2_V01.sldasm-Part-2.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>5.4976874750445699</Mass>
+<CenterOfMass>0.40145294658388109 -0.001422220217403935 0.75999581545030559</CenterOfMass>
+<Inertia>0.0061615706195188458 0.007898176002363342 0.0090108003585423844 7.9709847000024534e-07 6.5272503996336699e-07 -7.1280534576711573e-05</Inertia>
+</MassProperties>
+<GeometryFile name="KR_6_R900-2_V01.sldasm-Part-2_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR_6_R900-2_V01.sldasm-Part-3" uid="KR_6_R900-2_V01.sldasm-Part-3*:*Valor predeterminado" version="147">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR_6_R900-2_V01.sldasm-Part-3.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>17.660261867293482</Mass>
+<CenterOfMass>0.2786390268445299 0.002371853034349712 0.75992752469739433</CenterOfMass>
+<Inertia>0.047803072347246019 0.078089828744172973 0.0987699419670756 2.3816835609573059e-05 0.00016287090588183354 -0.005339312005216635</Inertia>
+</MassProperties>
+<GeometryFile name="KR_6_R900-2_V01.sldasm-Part-3_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR_6_R900-2_V01.sldasm-Part-4" uid="KR_6_R900-2_V01.sldasm-Part-4*:*Valor predeterminado" version="127">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR_6_R900-2_V01.sldasm-Part-4.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>28.628386506418718</Mass>
+<CenterOfMass>0.077477204916097886 -0.0027426802073935819 0.86613117115761751</CenterOfMass>
+<Inertia>0.074490813106264875 0.20637294441312845 0.19909149007629606 -0.00041910613430772887 -0.022465651524636646 -0.0030743822769869998</Inertia>
+</MassProperties>
+<GeometryFile name="KR_6_R900-2_V01.sldasm-Part-4_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR_6_R900-2_V01.sldasm-Part-5" uid="KR_6_R900-2_V01.sldasm-Part-5*:*Valor predeterminado" version="198">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR_6_R900-2_V01.sldasm-Part-5.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>69.594947574252984</Mass>
+<CenterOfMass>0.016900931318950534 0.0013255819024637651 0.6107448554927738</CenterOfMass>
+<Inertia>2.2892929417701708 2.0923163516619874 0.37968641911984097 -0.019794403006092576 0.0080088100076212507 -0.00077238004287333664</Inertia>
+</MassProperties>
+<GeometryFile name="KR_6_R900-2_V01.sldasm-Part-5_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="KR_6_R900-2_V01.sldasm-Part-6" uid="KR_6_R900-2_V01.sldasm-Part-6*:*Valor predeterminado" version="141">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="KR_6_R900-2_V01.sldasm-Part-6.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>43.034038373019037</Mass>
+<CenterOfMass>0.0079094064563090555 -0.00051057608848348443 0.33362453670664421</CenterOfMass>
+<Inertia>0.51489135739871961 0.32891518416299209 0.38796631248704583 0.0035258145157493715 -0.035673557762715948 0.001799312173482477</Inertia>
+</MassProperties>
+<GeometryFile name="KR_6_R900-2_V01.sldasm-Part-6_Valor predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Diffuse r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Specular r="0.20000000000000001" g="0.20000000000000001" b="0.20000000000000001" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Wall" uid="Wall*:*Default" version="1051">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Wall.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>28615.046495065693</Mass>
+<CenterOfMass>-0.14599642434800483 1.2040879187321656 -0.54060986612908235</CenterOfMass>
+<Inertia>213297.47849548588 124103.49044029666 89627.802283984041 -628.60572575679657 -26.225605587519858 -656.42688354031782</Inertia>
+</MassProperties>
+<GeometryFile name="Wall_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="racquet" uid="racquet*:*Default" version="853">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="racquet.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.78929686310866898</Mass>
+<CenterOfMass>-2.1711685535402729e-05 -0.15512313088058091 -4.2631521284791907e-07</CenterOfMass>
+<Inertia>0.036305853334926107 0.0052460075904711976 0.041474758626770997 4.3725741518008092e-08 -2.7387154292666292e-10 5.6072281064617435e-06</Inertia>
+</MassProperties>
+<GeometryFile name="racquet_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="tenis" uid="tenis*:*Default" version="276">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="tenis.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.46638908580225608</Mass>
+<CenterOfMass>5.6259458880411586e-05 -4.640209586900722e-08 -1.5046386216498398e-07</CenterOfMass>
+<Inertia>0.00046339209766429112 0.00046404510586837636 0.00046294853384397974 4.5159932884260882e-10 -3.3663557771000013e-09 -1.1381940633634562e-09</Inertia>
+</MassProperties>
+<GeometryFile name="tenis_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
