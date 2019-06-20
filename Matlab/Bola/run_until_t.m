@@ -1,4 +1,4 @@
-function [ ball_position, speed ] = run_until_t( ball_position, speed, g, limits, D, mi, m_ball, regeneration_parede, t )
+function [ ball_position, speed ] = run_until_t( ball_position, speed, g, limits, D, mi, m_ball, regeneration_parede, t, z0 )
 %run_until_t
 % Função que calcula a posição da bola no tempo t, computando as colisões
 % com a parede
@@ -23,7 +23,7 @@ function [ ball_position, speed ] = run_until_t( ball_position, speed, g, limits
     while t0 < t
         ball_position = ball_position_k;
         speed = speed_k;
-        [ball_position_k, speed_k, axis, tp] = run_until_colision(ball_position, speed, g, limits, D, mi, m_ball);
+        [ball_position_k, speed_k, axis, tp] = run_until_colision(ball_position, speed, g, limits, D, mi, m_ball, z0);
         speed_k = do_colision(speed_k, axis, regeneration_parede);
         t0 = t0 + tp;
     end

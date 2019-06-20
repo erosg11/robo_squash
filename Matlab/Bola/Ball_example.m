@@ -11,7 +11,7 @@ speed = [-5;5;7];
 g = -9.81;
 
 % Massa da bola
-m_ball = 57*10^-3;
+m_ball = 57*10^-3;  % FIXO
 
 % Massa da raquete
 m_raquete = 1;
@@ -24,16 +24,20 @@ v_raquete = [
     ];
 
 % Regeneração da bola quando bate na raquete
-regeneration_raquete = 0.8;
+regeneration_raquete = 0.8; % FIXO
 
 % Regenaração da bola quando bate na parede
-regeneration_parede = 0.85;
+regeneration_parede = 0.85; %FIXO
 
 % Viscosidade do ar 
-mi = 17.2 * 10 ^ -6;
+mi = 17.2 * 10 ^ -6;    % FIXO
 
 % Diâmetro da bola
-D = 6.5 * 10 ^ -2;
+D = 6.5 * 10 ^ -2;  % FIXO
+
+poison = 0.47;  % FIXO
+
+young = 6.5 * 10^6; % FIXO
 
 disp('Run until colision')
 

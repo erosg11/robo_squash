@@ -1,9 +1,15 @@
 function [ v_ball ] = add_impulse( v_ball, v_raquete, D, f_raquete, regeneration, m_ball, K )
-%UNTITLED3 Summary of this function goes here
-%   Detailed explanation goes here
-
-    
-    
+%add_impulse
+% Calcula a velocidade da bola após sofrer ação de um impulso
+% Parâmetros:
+%   v_ball: Velocidade da bola antes de receber o impulso
+%   v_raquete: Velocidade da raquete antes de aplicar o impulso
+%   D: Diâmetro da bola
+%   f_raquete: Força da raquete
+%   regeneration: Regeneração da bola
+%   m_ball: Massa da bola
+%   K: K da bola
+ 
     h = ((5 * m_ball * norm(v_ball - v_raquete) ^ 2)/ ...
     (4 * (D/2) ^0.5 * K))^(2/5);
 
